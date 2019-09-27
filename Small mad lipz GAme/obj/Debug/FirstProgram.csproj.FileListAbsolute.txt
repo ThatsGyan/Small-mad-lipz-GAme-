@@ -1,0 +1,6 @@
+E:\Languages\C#\Revison\FirstProgram\bin\Debug\FirstProgram.exe.config
+E:\Languages\C#\Revison\FirstProgram\bin\Debug\FirstProgram.exe
+E:\Languages\C#\Revison\FirstProgram\bin\Debug\FirstProgram.pdb
+E:\Languages\C#\Revison\FirstProgram\obj\Debug\FirstProgram.csprojAssemblyReference.cache
+E:\Languages\C#\Revison\FirstProgram\obj\Debug\FirstProgram.exe
+E:\Languages\C#\Revison\FirstProgram\obj\Debug\FirstProgram.pdb
